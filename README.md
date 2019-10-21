@@ -1,4 +1,4 @@
-# Disclaim
+# Disclaimer
 
 All code belongs to Matterport: https://github.com/matterport/Mask_RCNN
 
